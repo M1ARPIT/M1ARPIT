@@ -5,10 +5,10 @@
 <img align="right" alt="Coding" width="200"src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif">
 - 🔭 I’m currently working on **something special**
 
-- 🌱 I’m currently learning **Android and panda**
+- 🌱 I’m currently learning **Android development **
 
 
-- 💬 Ask me about **React,Python,sql,MERN**
+- 💬 Ask me about **React,Python,Java,sql,**
 
 - 📫 How to reach me **arpittmishraa@gmail.com**
 
